@@ -2,10 +2,10 @@
 # NorthStar e-Commerce Database Schema
 
 
-```
-NorthStar Commerce is a mid-sized online retailer selling electronics, home
-goods, and apparel.
-```
+---
+**NorthStar Commerce is a mid-sized online retailer selling electronics, home
+goods, and apparel.**
+---
 
 ```
 Database schema
