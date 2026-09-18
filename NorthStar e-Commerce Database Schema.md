@@ -1,6 +1,6 @@
-```
-NorthStar e-Commerce
-```
+
+# NorthStar e-Commerce Database Schema
+
 
 ```
 NorthStar Commerce is a mid-sized online retailer selling electronics, home
